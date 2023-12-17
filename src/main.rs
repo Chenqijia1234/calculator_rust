@@ -1,3 +1,6 @@
+#[cfg(test)]
+mod test;
+
 use std::io::stdin;
 use std::io::stdout;
 use std::io::Write;
